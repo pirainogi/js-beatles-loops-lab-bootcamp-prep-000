@@ -31,6 +31,10 @@ function iLoveTheBeatles(number){
   do {
     array.push(`I love the Beatles!`);
     number++
+<<<<<<< HEAD
   } while (number < 15);
+=======
+  } while (i < 15);
+>>>>>>> f272181868954886053a67989623a095c3269e72
   return array;
 }
